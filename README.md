@@ -270,7 +270,7 @@ hdfs dfs -cat /Sum/*
 hdfs dfs -ls / # if you got correct results, you can see there are corresponding outputs in those directories
 ```
 
-For example, if you run small test data, you should have following results (you can follow step 7 to download results to compare):
+For example, if you run small test data, you should have following results (you can follow step 7 to download results to compare), you can also get this result file on [output](https://github.com/Raymond-JRLin/Movie-Recommender-System/tree/master/output) directory:
 
 > 1:10001	2.095238095238095
 
